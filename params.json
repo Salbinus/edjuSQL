@@ -1,0 +1,7 @@
+{
+"username":"ora",
+"password":"abc",
+"host":"wi-dbora.hwr-berlin.de",
+"port":1521,
+"service_name":"dbk.hwr-berlin.de"
+}
