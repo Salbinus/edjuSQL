@@ -91,3 +91,8 @@ Das Modul query_checker ist im Rahmen des Kurses 'Projekt Software Engineering' 
 Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit, direkt im Notebook SQL-Abfragen zu schreiben und sich die Ergebnisse anzeigen zu lassen. Hierfür muss die Funktion "get_creds()" zunächst instanziiert werden und der Instanz wird der Connectionstring als Wert zugewiesen. Das folgende Beispiel soll das verdeutlichen:
 
 ![alt text](ipython_sql.png "Title")
+
+# Ressources
+_____________________________________________________________________________________________________________________
+
+Diese Arbeit wäre nicht entstanden ohne all die Quellen im Internet. Vor allem sind hier die Oracle docs (https://cx-oracle.readthedocs.io/en/latest/) zu nennen, sowie die offiziellen Python docs (https://docs.python.org/3/). 
