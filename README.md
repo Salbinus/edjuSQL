@@ -1,6 +1,7 @@
 # Userguide
 _____________________________________________________________________________________________________________________
 
+edjuSQL wurde entwickelt, um Studierenden beim erlernen von SQL zu helfen. Studierende
 Die folgende Anleitung soll beim Umgang mit dem Tool helfen und so den Einstieg erleichtern. Dabei wird auf die Grundlegende Funktionalität eingegangen. Zusätzlich soll auch der Umgang mit der Jupyter Umgebung beschrieben werden.
 
 # Jupyter und IPython
@@ -86,7 +87,7 @@ SQLAlchemy wird von vielen Webseiten, unter anderem auch bekannten wie z.B. Yelp
 _____________________________________________________________________________________________________________________
 
 Das Modul query_checker ist im Rahmen des Kurses 'Projekt Software Engineering' entstanden. Es soll Studenten die Möglichkeit bieten, SQL- Abfragen auf Richtigkeit zu prüfen. Hierfür gibt der Student seine Oracle Zugangsdaten ein und kann über ein Dropdown- Menü die zu bearbeitende Aufgabe auswählen. In einem Textfeld kann nun die SQL- Abfrage geschrieben werden. Nachdem der 'Check'- Button gedrückt wurde wird im Hintergrund die Abfrage überprüft und der Student bekommt das entsprechende Ergebnis ausgegeben. query_checker muss wie jedes andere Modul zunächst importiert werden. Der Aufruf "qc.disp()" lässt das Widget erscheinen: (Abbildung 1: Das Widget in Aktion)
-![My image](Salbinus.github.com/edjuSQL/)
+![My image](Salbinus.github.com\edjuSQL\)
 Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit, direkt im Notebook SQL-Abfragen zu schreiben und sich die Ergebnisse anzeigen zu lassen. Hierfür muss die Funktion "get_creds()" zunächst instanziiert werden und der Instanz wird der Connectionstring als Wert zugewiesen. Das folgende Beispiel soll das verdeutlichen:
 
 ![My image](ipython_sql.png)
