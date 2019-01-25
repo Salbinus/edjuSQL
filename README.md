@@ -87,10 +87,10 @@ SQLAlchemy wird von vielen Webseiten, unter anderem auch bekannten wie z.B. Yelp
 _____________________________________________________________________________________________________________________
 
 Das Modul query_checker ist im Rahmen des Kurses 'Projekt Software Engineering' entstanden. Es soll Studenten die Möglichkeit bieten, SQL- Abfragen auf Richtigkeit zu prüfen. Hierfür gibt der Student seine Oracle Zugangsdaten ein und kann über ein Dropdown- Menü die zu bearbeitende Aufgabe auswählen. In einem Textfeld kann nun die SQL- Abfrage geschrieben werden. Nachdem der 'Check'- Button gedrückt wurde wird im Hintergrund die Abfrage überprüft und der Student bekommt das entsprechende Ergebnis ausgegeben. query_checker muss wie jedes andere Modul zunächst importiert werden. Der Aufruf "qc.disp()" lässt das Widget erscheinen: (Abbildung 1: Das Widget in Aktion)
-![query_checker_widget.png](Salbinus.github.com\edjuSQL\query_checker_widget.png)
+![query_checker_widget.png](https://github.com/Salbinus/edjuSQL/edit/master/query_checker_widget.png)
 Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit, direkt im Notebook SQL-Abfragen zu schreiben und sich die Ergebnisse anzeigen zu lassen. Hierfür muss die Funktion "get_creds()" zunächst instanziiert werden und der Instanz wird der Connectionstring als Wert zugewiesen. Das folgende Beispiel soll das verdeutlichen:
 
-![My image](ipython_sql.png)
+![My image](https://github.com/Salbinus/edjuSQL/edit/master/ipython_sql.png)
 
 # Ressources
 _____________________________________________________________________________________________________________________
