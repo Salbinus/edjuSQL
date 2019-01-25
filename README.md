@@ -94,5 +94,19 @@ Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit,
 # Ressources
 _____________________________________________________________________________________________________________________
 
-Diese Arbeit wäre nicht entstanden ohne all die Quellen im Internet. Vor allem sind hier die Oracle docs (https://cx-oracle.readthedocs.io/en/latest/) zu nennen, sowie die offiziellen Python docs (https://docs.python.org/3/). 
-Für die Verbindung zu Oracle war die Seite von Julian Dyke sehr hilfreich (http://www.juliandyke.com/Research/Development/UsingPythonWithOracle.php). 
+Die initiale Idee zur Umsetzung kam durch folgende Blogposts von Danielle Chou und Sayat Satybaldiyev: 
+- https://medium.com/@ZymergenTechBlog/tips-for-developing-user-facing-tools-in-jupyter-notebooks-1d71aa46aef7
+- https://towardsdatascience.com/jupyter-magics-with-sql-921370099589
+
+
+Diese Arbeit wäre jedoch nicht entstanden ohne all die anderen Quellen. Das Buch 'IPython Interactive Computing and Visualization Cookbook', von Cyrille Rossant(2018), war als weiterfürende Literatur essentiell.
+
+Ganz allgemein sind natürlich die offiziellen Docs zu nennen:
+- https://cx-oracle.readthedocs.io/en/latest/
+- https://docs.python.org/3/
+
+Für die Verbindung zwischen Python und Oracle war die Seite von Julian Dyke sehr hilfreich:
+- http://www.juliandyke.com/Research/Development/UsingPythonWithOracle.php
+Großer Dank gilt auch für Jason Grout, der innerhalb kürzester Zeit auf ein meine Frage geantwortet hat:
+- https://github.com/jupyter-widgets/ipywidgets/issues/2291
+
