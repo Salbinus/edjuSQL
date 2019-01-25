@@ -96,3 +96,4 @@ Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit,
 _____________________________________________________________________________________________________________________
 
 Diese Arbeit wäre nicht entstanden ohne all die Quellen im Internet. Vor allem sind hier die Oracle docs (https://cx-oracle.readthedocs.io/en/latest/) zu nennen, sowie die offiziellen Python docs (https://docs.python.org/3/). 
+Für die Verbindung zu Oracle war die Seite von Julian Dyke sehr hilfreich (http://www.juliandyke.com/Research/Development/UsingPythonWithOracle.php). 
