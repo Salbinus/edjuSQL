@@ -89,7 +89,7 @@ Das Modul query_checker ist im Rahmen des Kurses 'Projekt Software Engineering' 
 ![My image](Salbinus.github.com/edjuSQL/)
 Das Modul bietet in Verbindung mit der Erweiterung IPython-sql die Möglichkeit, direkt im Notebook SQL-Abfragen zu schreiben und sich die Ergebnisse anzeigen zu lassen. Hierfür muss die Funktion "get_creds()" zunächst instanziiert werden und der Instanz wird der Connectionstring als Wert zugewiesen. Das folgende Beispiel soll das verdeutlichen:
 
-![My image](Salbinus.github.com/edjuSQL/ipython_sql.png)
+![My image](ipython_sql.png)
 
 # Ressources
 _____________________________________________________________________________________________________________________
